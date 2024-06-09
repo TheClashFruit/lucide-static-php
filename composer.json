@@ -1,12 +1,13 @@
 {
-    "name": "theclashfruit/lucide-static-php",
-    "type": "library",
-    "license": "ISC",
-    "authors": [
-        {
-            "name": "TheClashFruit",
-            "email": "admin@theclashfruit.me"
-        }
-    ],
-    "require": {}
+  "name": "theclashfruit/lucide-static-php",
+  "type": "library",
+  "license": "ISC",
+  "version": "0.390.0",
+  "authors": [
+    {
+      "name": "TheClashFruit",
+      "email": "admin@theclashfruit.me"
+    }
+  ],
+  "require": {}
 }
